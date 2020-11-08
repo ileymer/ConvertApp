@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Convert</string>
+
+    <string-array name="valute">
+        <item>RUB</item>
+        <item>USD</item>
+        <item>EUR</item>
+    </string-array>
+</resources>
